@@ -1,0 +1,14 @@
+c:\users\abdoj\onedrive\documents\visual studio 2015\Projects\KAT\KAT\bin\Debug\KAT.exe.config
+c:\users\abdoj\onedrive\documents\visual studio 2015\Projects\KAT\KAT\bin\Debug\KAT.exe
+c:\users\abdoj\onedrive\documents\visual studio 2015\Projects\KAT\KAT\bin\Debug\KAT.pdb
+c:\users\abdoj\onedrive\documents\visual studio 2015\Projects\KAT\KAT\obj\Debug\KAT.Properties.Resources.resources
+c:\users\abdoj\onedrive\documents\visual studio 2015\Projects\KAT\KAT\obj\Debug\KAT.csproj.GenerateResource.Cache
+c:\users\abdoj\onedrive\documents\visual studio 2015\Projects\KAT\KAT\obj\Debug\KAT.exe
+c:\users\abdoj\onedrive\documents\visual studio 2015\Projects\KAT\KAT\obj\Debug\KAT.pdb
+c:\users\abdoj\onedrive\documents\visual studio 2015\Projects\KAT\KAT\obj\Debug\KAT.KAT.resources
+c:\users\abdoj\onedrive\documents\visual studio 2015\Projects\KAT\KAT\obj\Debug\KAT.csproj.ResolveComReference.cache
+C:\Users\abdoj\OneDrive\Documents\Visual Studio 2015\Projects\KAT\KAT\obj\Debug\KAT.csprojResolveAssemblyReference.cache
+D:\KAT\KAT\bin\Debug\KAT.exe.config
+D:\KAT\KAT\obj\Debug\KAT.csproj.ResolveComReference.cache
+D:\KAT\KAT\obj\Debug\KAT.exe
+D:\KAT\KAT\obj\Debug\KAT.pdb
